@@ -1,1 +1,0 @@
-rhe code uname when you type it it shown your system (linux)
